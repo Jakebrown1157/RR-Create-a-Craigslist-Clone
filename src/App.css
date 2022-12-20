@@ -48,3 +48,25 @@ img {
   grid-area: sidebar;
   border: 1px solid black;
 }
+
+Main{
+  width: 75vw;
+  background-color: lightblue
+}
+#vendor-select {
+  width: 80%;
+  height: 30px;
+  border: 1px solid grey;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.item{
+  border: 1px solid grey;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 20px;
+  width: 300px;
+}
